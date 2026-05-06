@@ -35,8 +35,8 @@ A Computer Science graduate and a passionate Data Enthusiast. I enjoy transformi
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile-link](www.linkedin.com/in/waghneha)
-- **Email:** [your-email@example.com](mailto:waghneha308@gmail.com)
+- **LinkedIn:** www.linkedin.com/in/waghneha
+- **Email:** waghneha308@gmail.com
 
 ---
 
